@@ -20,6 +20,8 @@
             </plugin>
             <plugin>
                 <artifactId>maven-war-plugin</artifactId>
+                <configuration>
+                </configuration>
             </plugin>
         </plugins>
     </build>

@@ -52,6 +52,7 @@
                 <configuration>
                     <ejbVersion>3.2</ejbVersion>
                     <archive>
+                    
                     </archive>
                 </configuration>
 
