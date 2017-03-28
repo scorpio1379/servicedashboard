@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/servicedashboard.iml" filepath="$PROJECT_DIR$/servicedashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedashboardapp/servicedashboardapp.iml" filepath="$PROJECT_DIR$/servicedashboardapp/servicedashboardapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedashboardweb/servicedashboardweb.iml" filepath="$PROJECT_DIR$/servicedashboardweb/servicedashboardweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicemodel/servicemodel.iml" filepath="$PROJECT_DIR$/servicemodel/servicemodel.iml" />
+    </modules>
+  </component>
+</project>

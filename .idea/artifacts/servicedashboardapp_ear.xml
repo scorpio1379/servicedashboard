@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="servicedashboardapp:ear">
+    <output-path>$PROJECT_DIR$/servicedashboardapp/target</output-path>
+    <root id="archive" name="servicedashboardapp-1.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="servicedashboardapp:ear exploded" />
+      <element id="javaee-facet-resources" facet="servicemodel/javaeeApplication/javaEEApplication" />
+      <element id="javaee-facet-resources" facet="servicedashboardapp/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

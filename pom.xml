@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ru.iteco.ip</groupId>
+    <artifactId>servicedashboard</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>servicedashboardapp</module>
+        <module>servicedashboardweb</module>
+        <module>servicemodel</module>
+    </modules>
+    <properties>
+        <version.wildfly>10.1.0.Final</version.wildfly>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
+        <version.jboss.bom>10.1.1.Final</version.jboss.bom>
+        <version.wildfly.maven.plugin>1.1.0.Final</version.wildfly.maven.plugin>
+    </properties>
+
+
+</project>
