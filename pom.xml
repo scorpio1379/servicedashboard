@@ -36,6 +36,7 @@
         <module>servicedashboard-app</module>
         <module>servicedashboard-web</module>
         <module>servicedashboard-ejb</module>
+        <module>servicedashboardobjectdatamodel</module>
     </modules>
 
     <properties>
@@ -88,6 +89,12 @@
                 <version>${project.version}</version>
                 <type>war</type>
                 <scope>compile</scope>
+            </dependency>
+            <dependency>
+                <groupId>ru.iteco.ip</groupId>
+                <artifactId>servicedashboardobjectdatamodel</artifactId>
+                <version>${project.version}</version>
+                <type>ejb</type>
             </dependency>
 
             <!-- JBoss distributes a complete set of Java EE 7 APIs including

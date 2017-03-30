@@ -9,6 +9,7 @@
         <module name="servicedashboard-app" />
         <module name="servicedashboard-ejb" />
         <module name="servicedashboard-web" />
+        <module name="servicedashboardobjectdatamodel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="servicedashboard-ejb" target="1.8" />
       <module name="servicedashboard-web" target="1.8" />
       <module name="servicedashboardapp" target="1.8" />
+      <module name="servicedashboardobjectdatamodel" target="1.8" />
       <module name="servicedashboardweb" target="1.8" />
       <module name="servicemodel" target="1.8" />
     </bytecodeTargetLevel>

@@ -40,6 +40,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="ejb" url="file://$PROJECT_DIR$/servicedashboard-ejb" />
+    <file type="ejb" url="file://$PROJECT_DIR$/servicedashboardobjectdatamodel" />
     <file type="ejb" url="file://$PROJECT_DIR$/servicemodel" />
     <file type="javaeeApplication" url="file://$PROJECT_DIR$/servicedashboard-app" />
     <file type="javaeeApplication" url="file://$PROJECT_DIR$/servicedashboardapp" />

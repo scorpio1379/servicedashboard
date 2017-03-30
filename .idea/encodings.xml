@@ -5,5 +5,6 @@
     <file url="file://$PROJECT_DIR$/servicedashboard-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servicedashboard-ejb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servicedashboard-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicedashboardobjectdatamodel" charset="UTF-8" />
   </component>
 </project>

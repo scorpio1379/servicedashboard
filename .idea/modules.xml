@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/servicedashboard-app/servicedashboard-app.iml" filepath="$PROJECT_DIR$/servicedashboard-app/servicedashboard-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicedashboard-ejb/servicedashboard-ejb.iml" filepath="$PROJECT_DIR$/servicedashboard-ejb/servicedashboard-ejb.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicedashboard-web/servicedashboard-web.iml" filepath="$PROJECT_DIR$/servicedashboard-web/servicedashboard-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedashboardobjectdatamodel/servicedashboardobjectdatamodel.iml" filepath="$PROJECT_DIR$/servicedashboardobjectdatamodel/servicedashboardobjectdatamodel.iml" />
     </modules>
   </component>
 </project>
