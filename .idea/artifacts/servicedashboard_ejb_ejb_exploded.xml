@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="servicedashboard-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/servicedashboard-ejb/target/servicedashboard-ejb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="servicedashboard-ejb/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/servicedashboard-ejb/target/servicedashboard-ejb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="servicedashboard-ejb" />
+    </root>
+  </artifact>
+</component>

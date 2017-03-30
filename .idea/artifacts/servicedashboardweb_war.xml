@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="servicedashboardweb:war">
-    <output-path>$PROJECT_DIR$/servicedashboardweb/target</output-path>
-    <root id="archive" name="servicedashboardweb-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="servicedashboardweb:war exploded" />
-    </root>
-  </artifact>
-</component>

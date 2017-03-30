@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/servicedashboard.iml" filepath="$PROJECT_DIR$/servicedashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/servicedashboardapp/servicedashboardapp.iml" filepath="$PROJECT_DIR$/servicedashboardapp/servicedashboardapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/servicedashboardweb/servicedashboardweb.iml" filepath="$PROJECT_DIR$/servicedashboardweb/servicedashboardweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/servicemodel/servicemodel.iml" filepath="$PROJECT_DIR$/servicemodel/servicemodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedashboard-app/servicedashboard-app.iml" filepath="$PROJECT_DIR$/servicedashboard-app/servicedashboard-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedashboard-ejb/servicedashboard-ejb.iml" filepath="$PROJECT_DIR$/servicedashboard-ejb/servicedashboard-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedashboard-web/servicedashboard-web.iml" filepath="$PROJECT_DIR$/servicedashboard-web/servicedashboard-web.iml" />
     </modules>
   </component>
 </project>

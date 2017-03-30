@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="servicedashboard-app:ear">
+    <output-path>$PROJECT_DIR$/servicedashboard-app/target</output-path>
+    <root id="archive" name="servicedashboard-app.ear">
+      <element id="artifact" artifact-name="servicedashboard-app:ear exploded" />
+    </root>
+  </artifact>
+</component>

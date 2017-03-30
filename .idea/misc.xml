@@ -39,9 +39,12 @@
     </properties>
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/servicedashboard-ejb" />
     <file type="ejb" url="file://$PROJECT_DIR$/servicemodel" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/servicedashboard-app" />
     <file type="javaeeApplication" url="file://$PROJECT_DIR$/servicedashboardapp" />
     <file type="javaeeApplication" url="file://$PROJECT_DIR$/servicemodel" />
+    <file type="web" url="file://$PROJECT_DIR$/servicedashboard-web" />
     <file type="web" url="file://$PROJECT_DIR$/servicedashboardweb" />
   </component>
   <component name="MavenProjectsManager">

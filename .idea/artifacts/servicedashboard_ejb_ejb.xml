@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="servicedashboard-ejb:ejb">
+    <output-path>$PROJECT_DIR$/servicedashboard-ejb/target</output-path>
+    <root id="archive" name="servicedashboard-ejb.jar">
+      <element id="artifact" artifact-name="servicedashboard-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

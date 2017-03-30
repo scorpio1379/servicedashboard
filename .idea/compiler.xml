@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="servicedashboardapp" />
-        <module name="servicedashboardweb" />
-        <module name="servicemodel" />
+        <module name="servicedashboard-app" />
+        <module name="servicedashboard-ejb" />
+        <module name="servicedashboard-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="servicedashboard" target="1.8" />
+      <module name="servicedashboard-app" target="1.8" />
+      <module name="servicedashboard-ejb" target="1.8" />
+      <module name="servicedashboard-web" target="1.8" />
       <module name="servicedashboardapp" target="1.8" />
       <module name="servicedashboardweb" target="1.8" />
       <module name="servicemodel" target="1.8" />
